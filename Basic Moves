@@ -1,0 +1,84 @@
+Moves are the basic building block of action in Occult. Some moves only trigger when you take an action within the fiction of the game. The action always come first and then the mechanics take over to arbitrate how that action plays out. Players can't take the action in fiction without the move triggering, and the move can't happen without the action to trigger it. This may seem a peculiar distinction, but remember: the fiction always comes first. This idea extends to the results of a move too. Succeeding on an attack doesn’t just mean that you deal damage in the game, but that you were able to defy your enemies defenses and strike at them. Narrate how you did it. Take a second to have the spotlight and breathe life into this interaction. Once that’s done, return to the conversation. 
+
+Some moves ask that you roll dice to determine their effectiveness. When a move askes you to roll dice, it will say "Roll +[stat]" where stat is the modifier that you will add to the roll. Move rolls use 2d6. This is dice notation for the 2 6-sided dice. You will roll these dice, add the results to your modifier, and then compare the results to details in the move. For the most part, the results of dice rolls break down something like this:
+	• On a +10, you have a full success. There are no complications and the move goes off without a hitch.
+	• On a 7-9, you have partial success. You complete your goal, but there are minor complications or compromises. 
+	• On a 6 or lower, you have a full failure. You mark 1 experience and the DM will put your character in a jam. Most moves won't say what happens on a 6 or lower, as the result is almost always the same. 
+
+Effects of Moves
+Some Moves may have specific language that refers to ideas within the game. Some common ones are:
+	• "Deal damage": moves that say this will generally specify an amount or call for rolling of dice to determine the amount. It will also describe who would be dealt that damage, and the nature of the damage. It is up to the Players and GM to discuss if a creature would be affected by a certain type of damage. A creature made of stone would likely not be affected by fire, for instance.
+	• "Take +1 Forward": Effects that give you +1 forward gives you an extra bonus to the next Move roll. Sometimes this will be a specific Move like Melee, or sometimes it will simply be the next one that triggers. This bonus may also be greater than +1, or even a detriment of -1 or greater. 
+	• "Take +1 Ongoing": Much like the above effect, Ongoing provides an a bonus to Moves rolls. With ongoing however, you receive this bonus on all rolls. The Move that applied this effect will also stipulate the ending conditions for this effect. Often times this bonus will have conditions, such as only applying to one Move. This bonus may be greater than +1 or be a detriment -1 or greater. 
+	• Give you "Hold": Some Moves may give you Hold. Hold is a resource that can be spent on options as outlined in the Move. Hold can only be spent in the ways that the Move outlines and it cannot be spent on other Hold Moves. You may have hold from multiple sources, but they cannot be spent on each other's moves. 
+	• Give you a choice in outcomes: Moves may present different options to pick from. Some of these may be limited by the success of the roll. 
+	• Give you a chance to add to your character lore: some moves will prompt you to fill in information yourself. In these instances, take a moment to describe something about your character, reveal a truth about them, or add to their legend. 
+	• Have you "Mark Exp": Add one xp to your current total. 
+
+Equipment
+
+Caught in Melee
+When you attack a prepared enemy in melee combat, roll +Constitution. If you are attacking a unprepared enemy you either just deal your damage if they are a supernatural being of some kind, or kill them outright if they are a mortal person. 
+	• On a +10: you deal damage while avoiding harm yourself. You may choose one of the other effects bellow. If you do, you open yourself up for a counter attack. 
+	• On a 7-9, you deal your weapon's damage, but the enemy also makes a strike against you.
+§ Lock the enemy down, preventing them from moving away from your fight. 
+§ You deal an additional 1d6 damage.
+§ You open your enemy up to an attack. Anyone attacking this enemy takes +1 Forward on their roll for hit and damage. 
+Some weapons and Moves add more options to choose from when you roll +10.
+
+
+Volley
+When you attack with a ranger weapon roll +Instinct. 
+	• On a +10: you hit your target and deal your damage. 
+	• On a 7-9: Choose one complication bellow. You deal damage regardless, but suffer the effects of your choice. 
+		○ You have to reposition to take your shot, opening yourself up to danger of the GM's description.
+		○ You take a hasty shot, your damage is reduced by -1d6. 
+		○ You take several shots, reducing your ammo by 1. 
+
+Defy Danger
+When you act despite and imminent threat or suffer a calamity roll:
+	• +Constitution if you overcome the threat via physical strength or bodily fortitude.
+	• +Instinct if you use your reflexes or senses to overcome a threat.
+	• +Mind if you use your quick-thinking, observation skills, or knowledge to avoid danger. 
+	• +Will if you use your use your determination or force-of-will to avoid a threat. 
+ Usually circumstances will limit they ways you are able to avoid danger, but you can always try to make a case for an unlikely solution. This move is also catch-all for situations when something should require the possibility of failure, but isn't covered by the other move. 
+	• On a +10: you successfully avoid the danger.
+	• On a 7-9: you are partially successful at avoiding the danger. The GM will offer you a worse outcome, a hard bargain, or and ugly choice. 
+
+Speak Truth
+When you recall knowledge, roll +Mind. 
+	• On a +10: the GM will give you at least one piece of relevant and useful lore. 
+	• On a 7-9: The GM will tell you one piece of interesting information. It is up to you to determine how to make this useful. 
+	• On a -5: you are left to your own speculation.
+The GM may ask you how you know this information. Explain truthfully. 
+
+Perceive 
+When you try to understand the truth of your surrounding or read a person, roll +Instinct.
+	• On a +10: ask the GM 2 questions about your surrounding or a person you are interacting with or observing. They will answer truthfully, if the answer is perceivable. 
+	• On a 7-9: ask the GM 1 question. 
+Take +1 forward when acting on this information.
+
+This move is very broad. Here is a list of suggested questions to they type of questions you should be thinking of. If a detail would be obviously perceived, the GM should just tell you. Insight should be the reward for this Move.
+	§ What happened here recently?
+	§ Are they lying? Why?
+	§ Who's really in control here?
+	§ What here is not what it appears to be?
+	§ Am I (are we) in danger?
+
+Hold Steadfast
+When you stand in defiance of another's will, defending, protecting against, or resisting, roll +Constitution. As long as you hold steadfast, whenever you or the thing you are protecting are attacked, you may spend your Hold, 1 for 1, on the options bellow.
+	• On a +10: take 3 hold
+	• On a 7-9: take 1 hold
+§ Halve the damage you or the thing you are protecting would take.
+§ Redirect the attack from the thing you are protecting to yourself. 
+§ Deal damage to the attacker equal to your Constitution.
+
+Resist Madness 
+When you resist the Maddening a Horror, roll +Will.
+	• On a +10: Your mind clears and you maintain your sanity. 
+	• On a 7-9: You resist the Madness for now, but take -1 Ongoing for all future Resist Madness rolls. This can stack up to -5 and clears after you have an appropriate amount of down time. 
+
+Entreat 
+When you try to convince or persuade an NPC, say what you want them to do (or not do). If they have reason to resist the suggestion roll +Renown.  
+	• On a +10: They will ask for something in return, and agree to your suggestion if you promise to fulfill their request. 
+	• On a 7-9: Lose 1 renown. They will ask for something in return, but aide you.
